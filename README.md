@@ -7,3 +7,6 @@ The article discusses some of the current challenges and expectations of AI, as 
 
 ### My Opinion - [Arda Bakici](https://github.com/ArdaBakici)
 This is a very interesting article since talks about the fact that AI is good at Leetcode style single problems which is far from the reality of real life software development. I also like the quote from article *"popular narratives often shrink software engineering to "the undergrad programming part"* which is something I agree with. AI coding companions really struggle with large codebases. 
+
+### My Opinion - [Yifan Zuo](https://github.com/EvanZuo1108)
+This article is really impressive. If AI tools improve in the ways suggested, we may see a shift in what software engineer roles look like. More time spent on high-level design, architectural decisions, specification, security, and less on boilerplate, tedious refactors, migrating old code, etc.
